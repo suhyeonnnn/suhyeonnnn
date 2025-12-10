@@ -69,5 +69,3 @@ Recently, I’ve been expanding into **Protein Modeling & BioAI.**
 
 ## 📬 Contact  
 📧 **Email:** shyun2219068@gmail.com  
-🔗 **LinkedIn (optional):** *(만들면 추가할게!)*  
-
