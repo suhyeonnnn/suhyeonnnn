@@ -26,7 +26,7 @@ Recently, I’ve been expanding into **Protein Modeling & BioAI.**
 - Implemented **RAG architecture** with vector search + LLM reasoning  
 - Contributed to front–back–model integration & UX improvements  
 - Focused on producing *source-grounded, reliable answers* and minimizing hallucinations
-- <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a1707fca-d70c-48a8-ab41-f7c71d41feda" />
+ <img width="1419" height="579" alt="image" src="https://github.com/user-attachments/assets/a1707fca-d70c-48a8-ab41-f7c71d41feda" />
 
 
 ---
