@@ -39,11 +39,11 @@ Recently, I’ve been expanding into **Protein Modeling & BioAI.**
 - Fine-tuned a **Small Language Model (SLM)** for domain-specific QA tasks  
 - Optimized model speed/accuracy for deployment in resource-constrained environments  
 - Implemented retrieval + prompt engineering pipeline for improved answer reliability  
-- Developed scalable **backend inference flow** (model → API → UI pipeline)  
-<img width="1462" height="414" alt="KakaoTalk_20251210_202100015" src="https://github.com/user-attachments/assets/fbbba99b-0fbe-406d-b457-cbc9648404d8" />
-<img width="1462" height="414" alt="KakaoTalk_20251210_202100015_01" src="https://github.com/user-attachments/assets/f698a105-44b3-4af9-b265-25a0a41ce150" />
-<img width="1446" height="393" alt="KakaoTalk_20251210_202100015_02" src="https://github.com/user-attachments/assets/c6e19655-0d3a-4a8b-93dd-decde375f94c" />
+- Developed scalable **backend inference flow** (model → API → UI pipeline)
 <img width="1340" height="399" alt="KakaoTalk_20251210_202100015_03" src="https://github.com/user-attachments/assets/45337d47-01c4-4fe2-b58d-c287e33050f3" />
+<img width="1462" height="414" alt="KakaoTalk_20251210_202100015_01" src="https://github.com/user-attachments/assets/f698a105-44b3-4af9-b265-25a0a41ce150" />
+<img width="1462" height="414" alt="KakaoTalk_20251210_202100015" src="https://github.com/user-attachments/assets/fbbba99b-0fbe-406d-b457-cbc9648404d8" />
+<img width="1446" height="393" alt="KakaoTalk_20251210_202100015_02" src="https://github.com/user-attachments/assets/c6e19655-0d3a-4a8b-93dd-decde375f94c" />
 
 ---
 
