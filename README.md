@@ -7,12 +7,9 @@ Recently, I’ve been expanding into **Protein Modeling & BioAI.**
 
 ---
 
-## 🧠 Interests  
-- 🧬 **Protein Modeling & Sequence-to-Structure Learning**  
-- 🔬 Generative Protein Design  
-- 🤖 Efficient AI Models (SLMs, fine-tuning, prompt design)  
-- 📚 Retrieval-Augmented Generation (RAG)  
-- 🧪 Biological Data Engineering & Bioinformatics  
+## Interests  
+- Efficient AI Models (SLMs, fine-tuning, prompt design)  
+- Retrieval-Augmented Generation (RAG)  
 
 ---
 
@@ -59,19 +56,6 @@ Recently, I’ve been expanding into **Protein Modeling & BioAI.**
 - Retrieval-Augmented Generation (RAG)  
 - Fine-tuning (LoRA + full)  
 - Embedding models, Vector DBs  
-
-### 🧬 BioAI (currently learning)  
-- AlphaFold2, ESMFold, ColabFold  
-- Protein embeddings (ESM-2)  
-- Foldseek, BLAST, MSA tools  
-- PyMOL / ChimeraX visualization  
-
----
-
-## 🌱 Currently Learning  
-- Protein sequence embeddings & structure prediction  
-- Mutation analysis and sequence optimization  
-- Generative protein models & representation learning  
 
 ---
 
