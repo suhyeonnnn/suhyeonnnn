@@ -1,9 +1,8 @@
 ## 👋 Hi, I'm Suhyun Lee  
 **Bioinformatics & AI Engineer (in progress)**  
-Interested in **Protein Design, AI-driven Biology, Machine Learning, and Retrieval-based AI systems.**
+Interested in **AI-driven Biology, Machine Learning, and Retrieval-based AI systems.**
 
-I enjoy building **end-to-end AI pipelines** — data preprocessing → retrieval → model integration → deployment.  
-Recently, I’ve been expanding into **Protein Modeling & BioAI.**
+I enjoy building **end-to-end AI pipelines** — data preprocessing → retrieval → model integration → deployment.  **
 
 ---
 
