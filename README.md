@@ -20,6 +20,7 @@
 현장 조사로 문제를 구체화하고, 데이터와 프로토타입으로 해결 방향을 검증하는 데 관심이 있습니다.
 
 - 관심 분야: 리테일 AX, 서비스 기획, RAG, LLM 기반 서비스
+- 코딩 학습 기록: [SWEA Coding Practice](https://github.com/suhyeonnnn/swea-coding-practice)
 
 ## Featured Projects
 
