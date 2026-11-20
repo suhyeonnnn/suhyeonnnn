@@ -27,6 +27,15 @@
 | [**Financial Dispute Q&A Chatbot**](https://github.com/lsM1N00/ai-) | Collected and structured 18,000 legal, financial terms, and regulator FAQ documents. Improved multi-agent processing with parallel execution and local SLM routing. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![Qwen](https://img.shields.io/badge/Qwen2.5--7B-6E49CB?style=flat-square) |
 | **Contrast Media Safety Alert** | Personal project implementing a rule engine that separates hard-stop warnings from informational alerts, validated through four simulations. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Rule Engine](https://img.shields.io/badge/Rule_Engine-495057?style=flat-square) |
 
+## Blog Categories
+
+| | Category | Posts | Topics |
+|:---:|:---|:---:|:---|
+| 🤖 | **AI / LLM** | 0 | LLM applications, SLMs, fine-tuning, model routing |
+| 🔎 | **RAG & Search** | 0 | Document parsing, chunking, vector search, source grounding |
+| 🧩 | **Project Notes** | 0 | GovRAG, financial Q&A chatbot, lessons from implementation |
+| 🛍️ | **Retail AX & Service Planning** | 0 | Customer experience, retail technology, service design |
+
 ## Tech Stack
 
 <div align="center">
