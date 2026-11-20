@@ -1,8 +1,10 @@
 <div align="center">
 
-# Su Hyeon Lee
+<a href="https://github.com/suhyeonnnn">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=90&lines=Su+Hyeon+Lee;Retail+AX+%7C+AI+Service+Planning+%7C+RAG" alt="Su Hyeon Lee — Retail AX, AI Service Planning, and RAG" />
+</a>
 
-### Retail AX · AI Service Planning · RAG
+<br/>
 
 고객과 현장에서 발견한 불편을 데이터와 AI로 해결하는 서비스를 기획하고 구현합니다.
 
