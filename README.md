@@ -18,15 +18,14 @@
 현장 조사로 문제를 구체화하고, 데이터와 프로토타입으로 해결 방향을 검증하는 데 관심이 있습니다.
 
 - 관심 분야: 리테일 AX, 서비스 기획, RAG, LLM 기반 서비스
-- 주요 경험: 신세계 퓨처앤드림 아카데미, 공공기관 문서 검색 GovRAG, KB국민은행 AI Challenge
 
 ## Featured Projects
 
-| Project | What I worked on | Highlights |
-| --- | --- | --- |
-| [이마트 고객경험 개선](https://github.com/suhyeonnnn) | 매장 관찰과 고객·직원 인터뷰를 바탕으로 행사 가격 안내 문제를 정의하고 디지털 가격표 개선안을 기획 | 신세계 퓨처앤드림 아카데미 |
-| [GovRAG](https://github.com/jungujeong/GovRAG) | 행정문서 문장 단위 청킹, 출처 하이라이트, 문서 뷰어와 FastAPI 구조 개선 | 공무원 30명 시연, 15명 사용성 테스트 |
-| [KB국민은행 AI Challenge](https://github.com/lsM1N00/ai-) | 금융 법률·약관·FAQ 데이터 수집·정제, 검색 구조화 및 멀티에이전트 처리 개선 | 본선 10팀, 응답시간 61% 단축, 외부 LLM 비용 83% 절감 |
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [**GovRAG**](https://github.com/jungujeong/GovRAG) | Public-sector document Q&A system. Built sentence-level chunking, source highlighting, document viewer features, and FastAPI structure improvements. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat-square) |
+| [**Financial Dispute Q&A Chatbot**](https://github.com/lsM1N00/ai-) | Collected and structured 18,000 legal, financial terms, and regulator FAQ documents. Improved multi-agent processing with parallel execution and local SLM routing. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![Qwen](https://img.shields.io/badge/Qwen2.5--7B-6E49CB?style=flat-square) |
+| **Contrast Media Safety Alert** | Personal project implementing a rule engine that separates hard-stop warnings from informational alerts, validated through four simulations. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Rule Engine](https://img.shields.io/badge/Rule_Engine-495057?style=flat-square) |
 
 ## Tech Stack
 
@@ -50,13 +49,6 @@
 
 **Backend & Frameworks**<br/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-
-<br/><br/>
-
-**Planning & Research**<br/>
-<img src="https://img.shields.io/badge/Customer_Research-4C6EF5?style=for-the-badge" alt="Customer research" />
-<img src="https://img.shields.io/badge/Service_Planning-7950F2?style=for-the-badge" alt="Service planning" />
-<img src="https://img.shields.io/badge/Usability_Testing-15AABF?style=for-the-badge" alt="Usability testing" />
 
 </div>
 
