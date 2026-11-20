@@ -1,62 +1,49 @@
-## 👋 Hi, I'm Suhyun Lee  
-**Bioinformatics & AI Engineer (in progress)**  
-Interested in **AI-driven Biology, Machine Learning, and Retrieval-based AI systems.**
+<div align="center">
 
-I enjoy building **end-to-end AI pipelines** — data preprocessing → retrieval → model integration → deployment.  **
+# Su Hyeon Lee
 
----
+### Retail AX · AI Service Planning · RAG
 
-## Interests  
-- Efficient AI Models (SLMs, fine-tuning, prompt design)  
-- Retrieval-Augmented Generation (RAG)  
+고객과 현장에서 발견한 불편을 데이터와 AI로 해결하는 서비스를 기획하고 구현합니다.
 
----
+[GitHub](https://github.com/suhyeonnnn) · [Email](mailto:shyun2219068@gmail.com)
 
-## 🧩 Featured Projects  
-
-### 🗂 GovRAG — Retrieval-Augmented Generation for Public Sector Documents  
-**Role:** Data Pipeline Developer & Model Integration  
-**Repo:** https://github.com/jungujeong/GovRAG  
-- Designed **regex-based preprocessing pipeline** for complex public institution documents  
-- Built metadata + embedding pipeline to improve retrieval accuracy  
-- Implemented **RAG architecture** with vector search + LLM reasoning  
-- Contributed to front–back–model integration & UX improvements  
-- Focused on producing *source-grounded, reliable answers* and minimizing hallucinations
-<img width="1590" height="689" alt="스크린샷 2025-12-10 130017" src="https://github.com/user-attachments/assets/86999a43-776e-435d-87f3-db65d90aad95" />
-
-
-
+</div>
 
 ---
 
-### 💳 AI-Based Financial Q&A System  
-**Role:** SLM Fine-tuning & Backend AI Engineer  
-**Repo:** https://github.com/lsM1N00/ai-  
-- Fine-tuned a **Small Language Model (SLM)** for domain-specific QA tasks  
-- Optimized model speed/accuracy for deployment in resource-constrained environments  
-- Implemented retrieval + prompt engineering pipeline for improved answer reliability  
-- Developed scalable **backend inference flow** (model → API → UI pipeline)
-<img width="1340" height="399" alt="KakaoTalk_20251210_202100015_03" src="https://github.com/user-attachments/assets/45337d47-01c4-4fe2-b58d-c287e33050f3" />
-<img width="1446" height="393" alt="KakaoTalk_20251210_202100015_02" src="https://github.com/user-attachments/assets/c6e19655-0d3a-4a8b-93dd-decde375f94c" />
-<img width="1462" height="414" alt="KakaoTalk_20251210_202100015_01" src="https://github.com/user-attachments/assets/f698a105-44b3-4af9-b265-25a0a41ce150" />
-<img width="1462" height="414" alt="KakaoTalk_20251210_202100015" src="https://github.com/user-attachments/assets/fbbba99b-0fbe-406d-b457-cbc9648404d8" />
+## About
 
----
+식품생명공학을 전공하고 컴퓨터공학을 복수전공하며 유통 현장과 AI 기술을 함께 공부하고 있습니다.  
+현장 조사로 문제를 구체화하고, 데이터와 프로토타입으로 해결 방향을 검증하는 데 관심이 있습니다.
 
-## 🛠 Tech Stack  
+- 관심 분야: 리테일 AX, 서비스 기획, RAG, LLM 기반 서비스
+- 주요 경험: 신세계 퓨처앤드림 아카데미, 공공기관 문서 검색 GovRAG, KB국민은행 AI Challenge
 
-### 🔧 Languages & Tools  
-- **Python**, Bash, SQL  
-- **Git**, GitHub, VSCode, PyCharm  
-- **Linux**, Docker, Streamlit  
+## Featured Projects
 
-### 🤖 AI / ML  
-- PyTorch, Transformers  
-- Retrieval-Augmented Generation (RAG)  
-- Fine-tuning (LoRA + full)  
-- Embedding models, Vector DBs  
+| Project | What I worked on | Highlights |
+| --- | --- | --- |
+| [이마트 고객경험 개선](https://github.com/suhyeonnnn) | 매장 관찰과 고객·직원 인터뷰를 바탕으로 행사 가격 안내 문제를 정의하고 디지털 가격표 개선안을 기획 | 신세계 퓨처앤드림 아카데미 |
+| [GovRAG](https://github.com/jungujeong/GovRAG) | 행정문서 문장 단위 청킹, 출처 하이라이트, 문서 뷰어와 FastAPI 구조 개선 | 공무원 30명 시연, 15명 사용성 테스트 |
+| [KB국민은행 AI Challenge](https://github.com/lsM1N00/ai-) | 금융 법률·약관·FAQ 데이터 수집·정제, 검색 구조화 및 멀티에이전트 처리 개선 | 본선 10팀, 응답시간 61% 단축, 외부 LLM 비용 83% 절감 |
 
----
+## Skills
 
-## 📬 Contact  
-📧 **Email:** shyun2219068@gmail.com  
+**Languages & Data**  
+Python · SQL · PostgreSQL · pgvector
+
+**AI & Backend**  
+RAG · LangGraph · FastAPI · Transformers · LoRA
+
+**Planning & Research**  
+현장 관찰 · 고객 인터뷰 · 문제 정의 · 서비스 흐름 설계 · 사용성 테스트
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=suhyeonnnn&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhyeonnnn&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+
+</div>
